@@ -11,5 +11,8 @@ public class Main {
 
         calculator.setStrategy(new MultiplyStrategy());
         System.out.println(a + " * " + b + " = " + calculator.calculate(a, b));
+
+        calculator.setStrategy(new DivideStrategy());
+        System.out.println(a + " / " + b + " = " + calculator.calculate(a, b));
     }
 }
