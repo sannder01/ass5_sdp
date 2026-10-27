@@ -171,5 +171,3 @@ https://github.com/sannder01/ass5_sdp
 References and assistance:
 
 - Assignment 5 handout: *Strategy Pattern, 2026-2027*, Astana IT University.
-- OpenAI ChatGPT: assistance with the code example, report and explanations.
-  https://chatgpt.com/
